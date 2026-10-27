@@ -8,4 +8,4 @@ window.VYRO_APP_URLS = {
 
 /* Planned monthly price per business for each app, in US dollars. Shown on the Plan tab. Nothing is charged yet.
    Leave a price as null until you decide it. */
-window.VYRO_PRICES = { restaurant: 20, takeout: null, contractor: null };
+window.VYRO_PRICES = { restaurant: 20, takeout: 10, contractor: 5 };
